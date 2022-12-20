@@ -30,7 +30,7 @@ the code could be used on other copies of these datasets.
 
 This work uses Hospital Episode Statistics (HES) data . 
 Copyright © 2021, re-used with permission. A data-sharing agreement with NHS 
-Digital DARS-NIC-226261-M2T0Q) governed access to and use of HES data for this 
+Digital (DARS-NIC-226261-M2T0Q) governed access to and use of HES data for this 
 project. No results or derived outputs from these datasets are present in this 
 repository, but this code was used to create the results presented in the 
 main report.
@@ -39,7 +39,8 @@ main report.
 ## Requirements
 
 The scripts were written in SAS, although much of the code to re-allocate 
-ethnic categories is written using SQL (with PROC SQL).  
+ethnic categories is written using SQL (with PROC SQL) and so should be familiar 
+to users with familiarity with SQL or SAS.  
 
 ## Usage
 * [01_data_preprocess.sas](01_data_preprocess.sas) has the code used to process 
@@ -59,7 +60,7 @@ generate summaries from HES of how coding changes by ethnicity.
 * Theo Georghiou - [Github](https://github.com/tgeorghiou)
 
 ## License
-This project is licensed under the [MIT License](https://github.com/NuffieldTrust/ethnicity-coding-quality-england/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/NuffieldTrust/ethnicity_coding_quality_england/blob/main/LICENSE).
 
 ## Acknowledgements
 This project was supported by the NHS Race and Health Observatory.
