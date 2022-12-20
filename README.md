@@ -55,8 +55,8 @@ generate summaries from HES of how coding changes by ethnicity.
 
 
 ## Code authors
-* Jonathan Spencer - [Twitter](https://twitter.com/jspncr_) - [Github](jspncrnt)
-* Theo Georghiou - [Github](tgeorghiou)
+* Jonathan Spencer - [Twitter](https://twitter.com/jspncr_) - [Github](https://github.com/jspncrnt)
+* Theo Georghiou - [Github](https://github.com/tgeorghiou)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/NuffieldTrust/ethnicity-coding-quality-england/blob/main/LICENSE).
