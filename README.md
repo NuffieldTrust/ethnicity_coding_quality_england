@@ -4,12 +4,12 @@
 
 In 2021, The Nuffield Trust released a
 [report](https://www.nuffieldtrust.org.uk/research/ethnicity-coding-in-english-health-service-datasets) 
-looking at the quality and consistency of ethnicity coding within health 
+looking at the quality and consistency of ethnicity coding within English health 
 datasets. It used data from Hospital Episode Statistics (HES).  
 
-Our reports describe the poor quality of ethnicity data, and the use of some 
-techniques to describe these. In this repository, we show how we processed data 
-from Hospital Episode Statistics (HES). This includes:
+Our report describes the poor quality of ethnicity data, and the use of some 
+techniques to document the issue. In this repository, we show how we processed data 
+from HES. This includes:
 - Cleaning HES data
 - Re-allocating ethnicity codes to improve data quality
 - Reporting on data quality issues.
@@ -28,9 +28,8 @@ The data used for this analysis is not publically available, so the code
 cannot be used to directly replicate the analysis. However, with modifications 
 the code could be used on other copies of these datasets.
 
-This work uses Hospital Episode Statistics (HES) data . 
-Copyright © 2021, re-used with permission. A data-sharing agreement with NHS 
-Digital (DARS-NIC-226261-M2T0Q) governed access to and use of HES data for this 
+This work uses Hospital Episode Statistics (HES) data. Copyright © 2021, NHS Digital. Re-used with permission of NHS Digital. All rights reserved. 
+A data-sharing agreement with NHS Digital (DARS-NIC-226261-M2T0Q) governed access to and use of HES data for this 
 project. No results or derived outputs from these datasets are present in this 
 repository, but this code was used to create the results presented in the 
 main report.
@@ -57,7 +56,6 @@ generate summaries from HES of how coding changes by ethnicity.
 
 ## Code authors
 * Jonathan Spencer - [Twitter](https://twitter.com/jspncr_) - [Github](https://github.com/jspncrnt)
-* Theo Georghiou - [Github](https://github.com/tgeorghiou)
 
 ## License
 This project is licensed under the [MIT License](https://github.com/NuffieldTrust/ethnicity_coding_quality_england/blob/main/LICENSE).
